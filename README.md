@@ -10,7 +10,7 @@
 ## 🎯 Current Focus
 
 - 🔭 Working on: **CodexIntern Project** <!-- TODO: Add your current main project -->
-- 🌱 Learning: **Cyber-Security** <!-- TODO: Add what you're currently learning -->
+- 🌱 Learning: **Data-Anaylyst** <!-- TODO: Add what you're currently learning -->
 - 👯 Looking to collaborate on: **Open Source Projects**
 - 💬 Ask me about: **Frontend Development, JavaScript, React** <!-- TODO: Add your areas of expertise -->
 - ⚡ Fun fact: **I enjoy exploring new coffee shops!** <!-- TODO: Add a fun fact -->
