@@ -1,265 +1,149 @@
-# 👨‍💻 Adil Ali
+<h1 align="center">👨‍💻 Hi, I'm Adil Ali</h1>
+<p align="center">
+  <img src="Adil Ali" width="180" alt="Adil Ali"/>
+</p>
 
-### 🚀 Java Developer | Spring Boot | DSA | Backend Development
+<h1 align="center">Hi 👋, I'm Adil Ali</h1>
+
+<h3 align="center">
+  Java Developer | Spring Boot | DSA | Backend Development
+</h3>
+<h3 align="center">Java Developer | Spring Boot | DSA | Backend Development</h3>
 
 <p align="center">
-<img src="Adil Ali" width="180" alt="Adil Ali"/>
-
+  Building scalable backend applications and solving complex problems, one step at a time.
 </p>
 
 <p align="center">
-
-</b>Building backend applications • Solving DSA problems •
-Learning every day</b>
-
+  ☕ Code Daily &nbsp;•&nbsp; 💡 Learn Continuously &nbsp;•&nbsp; 🎯 Solve Problems &nbsp;•&nbsp; 🚀 Build The Future
 </p>
 
+<p align="center">
+  <a href="https://github.com/AdilAli-web"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-------------------------------------------------------------------------
+---
 
 ## 👋 About Me
 
-I'm **Adil Ali**, a Computer Applications student passionate about
-**Java development, backend engineering, and problem solving**.
+I'm **Adil Ali**, a Computer Applications student passionate about Java development, backend engineering, and problem solving. I'm currently focused on strengthening my skills in **Java, Spring Boot, SQL, REST APIs, and Data Structures & Algorithms** while building practical projects.
 
-I'm currently focused on strengthening my skills in **Java, Spring Boot,
-SQL, REST APIs, and Data Structures & Algorithms** while building
-practical projects.
+- 🔭 **Currently working on:** Java & Spring Boot projects
+- 🌱 **Currently learning:** Spring Boot, REST APIs, SQL & Backend Development
+- 🧩 **Solving DSA problems:** Regularly on LeetCode & GeeksforGeeks
+- 🤝 **Open to collaborate on:** Java, Spring Boot & Open Source projects
+- 💬 **Ask me about:** Java, OOP, Collections, DSA, Spring Boot, REST APIs
+- 🎯 **Goal:** Become a strong Java Backend Developer
 
--   🔭 Currently working on **Java & Spring Boot projects**
--   🌱 Learning **Spring Boot, REST APIs, SQL & Backend Development**
--   🧠 Solving **DSA problems** regularly using Java
--   💻 Interested in **Java Backend Development**
--   👯 Open to collaborating on **Java, Spring Boot & Open Source
-    projects**
--   🎯 Goal: Become a strong **Java Backend Developer**
-
-------------------------------------------------------------------------
+---
 
 ## 🛠️ Tech Stack
 
-### ☕ Languages
+**Languages**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<p>
+**Backend & Frameworks**
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
 
-</p>
-```
-### 🚀 Backend & Frameworks
+**Database**
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<p>
+**Tools**
 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 
-### 🗄️ Database
+---
 
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-    
-</p>
-### 🔧 Tools
+## 🧠 Core Java Concepts
 
-<p>
-```
-`<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>`{=html}
-`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>`{=html}
-`<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>`{=html}
-`<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>`{=html}
-```{=html}
-</p>
-```
+- OOP & SOLID Principles
+- Collections Framework
+- Generics
+- Exception Handling
+- Multithreading & Concurrency
+- Comparable & Comparator
+- Java Streams
+- HashMap Internals
+- equals() & hashCode()
+- File Handling
+- JDBC
+- Clean Code
+- Object-Oriented Design
 
-------------------------------------------------------------------------
-
-## 🧠 Core Java
-
--   OOP & SOLID Principles
--   Collections Framework
--   Generics
--   Exception Handling
--   Multithreading & Concurrency
--   Comparable & Comparator
--   Java Streams
--   HashMap Internals
--   `equals()` & `hashCode()`
--   File Handling
--   JDBC
--   Clean Code & Object-Oriented Design
-
-------------------------------------------------------------------------
+---
 
 ## 🧩 Data Structures & Algorithms
 
-I'm actively solving DSA problems using **Java**.
+**Currently Practicing**
 
-### Currently Practicing
+`Arrays` → `Strings` → `Two Pointers` → `Sliding Window` → `Hashing` → `Linked List`
+`Stack & Queue` → `Binary Search` → `Recursion` → `Trees` → `Graphs` → `DP`
 
+**⭐ My Approach**
 
-Arrays
-   ↓
-Strings
-   ↓
-Two Pointers
-   ↓
-Sliding Window
-   ↓
-Hashing
-   ↓
-Linked List
-   ↓
-Stack & Queue
-   ↓
-Binary Search
-   ↓
-Recursion
-   ↓
-Trees
-   ↓
-Graphs
-   ↓
-Dynamic Programming
+`Understand` → `Brute Force` → `Pattern` → `Optimize` → `Analyze` → `Implement` → `Test`
 
+---
 
-### 🧠 My Problem-Solving Approach
+## 🚀 Featured Projects
 
+### 🏦 [Java Banking System](#)
+A console-based banking application built to strengthen Java OOP and clean code principles.
+`Java` `OOP` `Collections`
 
-Understand the Problem
-        ↓
-Build Brute Force Solution
-        ↓
-Find the Pattern
-        ↓
-Optimize the Solution
-        ↓
-Analyze Time & Space Complexity
-        ↓
-Implement in Java
-        ↓
-Test Edge Cases
+### 📝 [Note Saver](#)
+A backend application for creating and managing notes while practicing Spring Boot and REST API development.
+`Java` `Spring Boot` `REST API`
 
+### 🎓 [StudyMate AI](#)
+An AI-powered study project designed to help students generate useful academic resources from their study material.
+`JavaScript` `React` `Node.js` `API`
 
-> 🎯 **I focus on understanding patterns and problem-solving techniques
-> rather than memorizing solutions.**
+---
 
-------------------------------------------------------------------------
-
-## 🏗️ Featured Projects
-
-### 🏦 Java Banking System
-
-A console-based banking application built to strengthen **Java OOP,
-Collections, and clean code principles**.
-
-**Features** - User registration & login - Deposit & withdrawal -
-Balance checking - Transaction history - Menu-driven CLI -
-Object-Oriented Design
-
-**Tech:** Java` `OOP` `Collections`
-
-------------------------------------------------------------------------
-
-### 📝 Note Saver
-
-A backend application for creating and managing notes while practicing
-**Spring Boot and REST API development**.
-
-**Tech:**Java Spring Boot REST API
-
-------------------------------------------------------------------------
-
-### 🎓 StudyMate AI
-
-An AI-powered study project designed to help students generate useful
-academic resources from their study material.
-
-**Tech:** JavaScript` `React` `Node.js` `API`
-
-------------------------------------------------------------------------
-
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-```
-`<img height="180" src="https://github-readme-stats.vercel.app/api?username=AdilAli-web&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>`{=html}
-`<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilAli-web&layout=compact&langs_count=8&theme=tokyonight"/>`{=html}
-```{=html}
+  <img src="https://github-readme-stats.vercel.app/api?username=AdilAli-web&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdilAli-web&theme=radical" width="48%" />
 </p>
-```
-
-------------------------------------------------------------------------
-
-## 🔥 GitHub Streak
 
 <p align="center">
-```
-`<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdilAli-web&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
+  <img src="https://github-profile-trophy.vercel.app/?username=AdilAli-web&theme=radical&no-frame=true&row=1" width="70%" />
 </p>
-```
-
-------------------------------------------------------------------------
-
-## 🏆 GitHub Achievements
 
 <p align="center">
-```
-`<img src="https://github-profile-trophy.vercel.app/?username=AdilAli-web&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>`{=html}
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdilAli-web&theme=react-dark" width="90%" />
 </p>
 
-------------------------------------------------------------------------
+---
 
-## 📈 Contribution Activity
-
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdilAli-web&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
-
-------------------------------------------------------------------------
-
-# 🌐 Let's Connect
-
+## 🌐 Let's Connect
 
 <p align="center">
-```
-`<a href="https://github.com/AdilAli-web">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>`{=html}
-`</a>`{=html}
-`<a href="https://www.linkedin.com/in/adil-ali-0563341b3">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}
-`</a>`{=html}
-```{=html}
+  <a href="https://github.com/AdilAli-web"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-```
-
-------------------------------------------------------------------------
-
-## 📊 Profile Views
-
 
 <p align="center">
-```
-`<img src="https://komarev.com/ghpvc/?username=AdilAli-web&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>`{=html}
-```{=html}
+  <img src="https://komarev.com/ghpvc/?username=AdilAli-web&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
-```
 
-------------------------------------------------------------------------
-
-
-<p align="center">
-```
-### 🚀 Learning every day. Building every day. Solving one problem at a time.
-
-⭐ **Feel free to explore my repositories and follow my journey!**
-
-
-</p>
-```
+<h3 align="center">"Learning every day. Building every day. Solving one problem at a time."</h3>
+<p align="center">⭐ Feel free to explore my repositories and follow my journey!</p>
