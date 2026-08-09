@@ -4,7 +4,7 @@
 
 <h3>🚀 Java Developer | Spring Boot | DSA | Backend Development</h3>
 
-<br clear="left">
+
 <p align="center">
   Building scalable backend applications and solving complex problems, one step at a time.
 </p>
