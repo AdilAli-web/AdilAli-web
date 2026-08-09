@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  Building scalable backend applications and solving complex problems, one step at a time.
+   Building scalable backend applications and solving complex problems, one step at a time.
 </p>
 
 <p align="center">
