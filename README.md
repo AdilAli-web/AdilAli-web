@@ -1,10 +1,20 @@
 # 👨‍💻 Adil Ali
+  <p align="center">
+  <img
+    src="Adil Ali.jpg"
+    width="180"
+    height="180"
+    style="border-radius: 50%; object-fit: cover;"
+    alt="Adil Ali"
+  />
+</p>
+<h1 align="center">Hi 👋, I'm Adil Ali</h1>
 
+<h3 align="center">
+  Java Developer | Spring Boot | DSA | Backend Development
+</h3>
 ### 🚀 Java Developer | Spring Boot | DSA | Backend Development
 
-<p align="center">
-  <img src="Adil Ali.jpg" width="180" alt="Adil Ali"/>
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mq/giphy.gif" width="350"/>
