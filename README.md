@@ -1,5 +1,20 @@
+<table>
+<tr>
+<td width="200">
+
 <img src="./Adil Ali.png" width="180" alt="Adil Ali"/>
-<h1 align="center">Hi 👋, I'm Adil Ali</h1>
+
+</td>
+
+<td>
+
+<h1>Hi 👋, I'm Adil Ali</h1>
+
+<h3>🚀 Java Developer | Spring Boot | DSA | Backend Development</h3>
+
+</td>
+</tr>
+</table>
 <h3 align="center">Java Developer | Spring Boot | DSA | Backend Development</h3>
 
 <p align="center">
