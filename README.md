@@ -3,7 +3,7 @@
 ### 🚀 Java Developer | Spring Boot | DSA | Backend Development
 
 <p align="center">
-  <img src="./adil.jpg" width="180" alt="Adil Ali"/>
+  <img src="Adil Ali.jpg" width="180" alt="Adil Ali"/>
 </p>
 
 <p align="center">
