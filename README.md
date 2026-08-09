@@ -1,14 +1,5 @@
-<img src="Adil Ali.png" width="180" alt="Adil Ali"/>
-
-</td>
-
-<td>
-
 <h1 align="center">Hi 👋, I'm Adil Ali</h1>
-
-<h3 align="center">
-  Java Developer | Spring Boot | DSA | Backend Development
-</h3>
+<img src="./Adil Ali.png" width="180" alt="Adil Ali"/>
 <h3 align="center">Java Developer | Spring Boot | DSA | Backend Development</h3>
 
 <p align="center">
