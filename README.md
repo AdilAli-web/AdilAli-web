@@ -1,22 +1,19 @@
 # 👨‍💻 Adil Ali
 
-### 🚀 Java Developer \| Spring Boot \| DSA \| Backend Development
+### 🚀 Java Developer | Spring Boot | DSA | Backend Development
 
-```{=html}
 <p align="center">
-```
-`<img src="./assets/adil.png" width="180" alt="Adil Ali"/>`{=html}
-```{=html}
+<img src="Adil Ali" width="180" alt="Adil Ali"/>
+
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<b>`{=html}Building backend applications • Solving DSA problems •
-Learning every day`</b>`{=html}
-```{=html}
+
+</b>Building backend applications • Solving DSA problems •
+Learning every day</b>
+
 </p>
-```
+
 
 ------------------------------------------------------------------------
 
@@ -43,39 +40,34 @@ practical projects.
 
 ### ☕ Languages
 
-```{=html}
+
 <p>
-```
-`<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>`{=html}
-`<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>`{=html}
-`<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>`{=html}
-`<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>`{=html}
-```{=html}
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
 </p>
 ```
 ### 🚀 Backend & Frameworks
 
-```{=html}
+
 <p>
-```
-`<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>`{=html}
-`<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>`{=html}
-`<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>`{=html}
-```{=html}
+
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
 </p>
-```
+
 ### 🗄️ Database
 
-```{=html}
 <p>
-```
-`<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>`{=html}
-```{=html}
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    
 </p>
-```
 ### 🔧 Tools
 
-```{=html}
 <p>
 ```
 `<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>`{=html}
@@ -111,7 +103,7 @@ I'm actively solving DSA problems using **Java**.
 
 ### Currently Practicing
 
-``` text
+
 Arrays
    ↓
 Strings
@@ -135,11 +127,11 @@ Trees
 Graphs
    ↓
 Dynamic Programming
-```
+
 
 ### 🧠 My Problem-Solving Approach
 
-``` text
+
 Understand the Problem
         ↓
 Build Brute Force Solution
@@ -153,7 +145,7 @@ Analyze Time & Space Complexity
 Implement in Java
         ↓
 Test Edge Cases
-```
+
 
 > 🎯 **I focus on understanding patterns and problem-solving techniques
 > rather than memorizing solutions.**
@@ -171,7 +163,7 @@ Collections, and clean code principles**.
 Balance checking - Transaction history - Menu-driven CLI -
 Object-Oriented Design
 
-**Tech:** `Java` `OOP` `Collections`
+**Tech:** Java` `OOP` `Collections`
 
 ------------------------------------------------------------------------
 
@@ -180,7 +172,7 @@ Object-Oriented Design
 A backend application for creating and managing notes while practicing
 **Spring Boot and REST API development**.
 
-**Tech:** `Java` `Spring Boot` `REST API`
+**Tech:**Java Spring Boot REST API
 
 ------------------------------------------------------------------------
 
@@ -189,13 +181,12 @@ A backend application for creating and managing notes while practicing
 An AI-powered study project designed to help students generate useful
 academic resources from their study material.
 
-**Tech:** `JavaScript` `React` `Node.js` `API`
+**Tech:** JavaScript` `React` `Node.js` `API`
 
 ------------------------------------------------------------------------
 
 # 📊 GitHub Analytics
 
-```{=html}
 <p align="center">
 ```
 `<img height="180" src="https://github-readme-stats.vercel.app/api?username=AdilAli-web&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>`{=html}
@@ -208,7 +199,6 @@ academic resources from their study material.
 
 ## 🔥 GitHub Streak
 
-```{=html}
 <p align="center">
 ```
 `<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdilAli-web&theme=tokyonight&hide_border=true"/>`{=html}
@@ -220,25 +210,23 @@ academic resources from their study material.
 
 ## 🏆 GitHub Achievements
 
-```{=html}
 <p align="center">
 ```
 `<img src="https://github-profile-trophy.vercel.app/?username=AdilAli-web&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>`{=html}
-```{=html}
+
 </p>
-```
 
 ------------------------------------------------------------------------
 
 ## 📈 Contribution Activity
 
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdilAli-web&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>`{=html}
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdilAli-web&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
 ------------------------------------------------------------------------
 
 # 🌐 Let's Connect
 
-```{=html}
+
 <p align="center">
 ```
 `<a href="https://github.com/AdilAli-web">`{=html}
@@ -255,7 +243,7 @@ academic resources from their study material.
 
 ## 📊 Profile Views
 
-```{=html}
+
 <p align="center">
 ```
 `<img src="https://komarev.com/ghpvc/?username=AdilAli-web&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>`{=html}
@@ -265,13 +253,13 @@ academic resources from their study material.
 
 ------------------------------------------------------------------------
 
-```{=html}
+
 <p align="center">
 ```
 ### 🚀 Learning every day. Building every day. Solving one problem at a time.
 
 ⭐ **Feel free to explore my repositories and follow my journey!**
 
-```{=html}
+
 </p>
 ```
