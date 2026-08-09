@@ -1,10 +1,10 @@
-<img src="./Adil Ali.png" width="180" alt="Adil Ali"/>
+<img src="./Adil Ali.png" width="150" alt="Adil Ali" align="left">
+
 <h1>Hi 👋, I'm Adil Ali</h1>
 
 <h3>🚀 Java Developer | Spring Boot | DSA | Backend Development</h3>
 
-<h3 align="center">Java Developer | Spring Boot | DSA | Backend Development</h3>
-
+<br clear="left">
 <p align="center">
   Building scalable backend applications and solving complex problems, one step at a time.
 </p>
