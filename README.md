@@ -100,10 +100,17 @@ I'm an MCA student focused on **Java backend development**. I learn by building 
 </td>
 <td align="center" width="50%">
 
-<strong>🚀 BACKEND</strong><br/><br/>
-<img src="https://skillicons.dev/icons?i=spring,hibernate&theme=dark" alt="Spring and Hibernate" /><br/>
-<img src="https://img.shields.io/badge/REST_APIs-06B6D4?style=for-the-badge" alt="REST APIs" />
-<img src="https://img.shields.io/badge/Spring_Data_JPA-16A34A?style=for-the-badge" alt="Spring Data JPA" />
+<strong>🚀 BACKEND ENGINEERING</strong><br/><br/>
+<img src="https://skillicons.dev/icons?i=spring,hibernate&theme=dark" alt="Spring Boot and Hibernate" /><br/><br/>
+<img src="https://img.shields.io/badge/Spring_Boot-16A34A?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Spring_Security-15803D?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" /><br/><br/>
+<img src="https://img.shields.io/badge/Spring_Data_JPA-0F766E?style=for-the-badge" alt="Spring Data JPA" />
+<img src="https://img.shields.io/badge/Hibernate-7C3AED?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate ORM" /><br/><br/>
+<img src="https://img.shields.io/badge/REST_APIs-0891B2?style=for-the-badge" alt="REST APIs" />
+<img src="https://img.shields.io/badge/JWT_Authentication-9333EA?style=for-the-badge" alt="JWT authentication" /><br/><br/>
+<img src="https://img.shields.io/badge/Validation_&_DTOs-334155?style=for-the-badge" alt="Validation and DTOs" />
+<img src="https://img.shields.io/badge/Transactions-334155?style=for-the-badge" alt="Transaction management" />
+<img src="https://img.shields.io/badge/JPA_Relationships-334155?style=for-the-badge" alt="JPA relationships" />
 
 </td>
 </tr>
