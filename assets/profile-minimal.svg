@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+<title id="title">Adil Ali — Java Backend Developer</title>
+<desc id="desc">Minimal charcoal banner with bold typography and animated acid-green line accents.</desc>
+<defs>
+  <linearGradient id="acid" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#d9ff43"/><stop offset="1" stop-color="#8bff83"/></linearGradient>
+  <pattern id="grain" width="5" height="5" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".45" fill="#fff" opacity=".08"/></pattern>
+  <clipPath id="clip"><rect width="1200" height="380" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="1200" height="380" fill="#101010"/>
+  <rect width="1200" height="380" fill="url(#grain)" opacity=".5"/>
+  <path d="M810 -40L1220 370M910 -50L1250 290M1040 -40L1260 180" stroke="#fff" stroke-opacity=".06" stroke-width="1"/>
+  <path d="M790 0L1170 380" stroke="url(#acid)" stroke-width="2" opacity=".85">
+    <animate attributeName="stroke-dasharray" values="0 700;260 440;0 700" dur="5s" repeatCount="indefinite"/>
+  </path>
+  <text x="70" y="67" fill="#b5b5b5" font-family="monospace" font-size="14" letter-spacing="4">JAVA BACKEND DEVELOPER  /  INDIA</text>
+  <text x="64" y="177" fill="#f5f5f5" font-family="Arial,Helvetica,sans-serif" font-size="100" font-weight="800" letter-spacing="-5">ADIL ALI<tspan fill="#d9ff43">.</tspan></text>
+  <rect x="70" y="205" width="74" height="5" fill="url(#acid)"/>
+  <text x="70" y="250" fill="#d4d4d4" font-family="Arial,Helvetica,sans-serif" font-size="21">Building backend systems with clarity and intent.</text>
+  <text x="70" y="302" fill="#8f8f8f" font-family="monospace" font-size="13" letter-spacing="1">JAVA  ·  SPRING BOOT  ·  MYSQL  ·  DOCKER  ·  KAFKA</text>
+  <g transform="translate(930 112)">
+    <rect width="190" height="150" rx="12" fill="#171717" stroke="#3a3a3a"/>
+    <circle cx="22" cy="22" r="4" fill="#d9ff43"/><circle cx="37" cy="22" r="4" fill="#555"/><circle cx="52" cy="22" r="4" fill="#555"/>
+    <text x="20" y="57" fill="#777" font-family="monospace" font-size="11">SERVICE_STATUS</text>
+    <text x="20" y="83" fill="#f5f5f5" font-family="monospace" font-size="16">BUILDING</text>
+    <path d="M20 105H166" stroke="#393939" stroke-width="5" stroke-linecap="round"/>
+    <path d="M20 105H166" stroke="url(#acid)" stroke-width="5" stroke-linecap="round" stroke-dasharray="42 104">
+      <animate attributeName="stroke-dashoffset" from="0" to="-146" dur="2.4s" repeatCount="indefinite"/>
+    </path>
+    <text x="20" y="132" fill="#a3a3a3" font-family="monospace" font-size="10">ITERATE / IMPROVE / REPEAT</text>
+  </g>
+  <path d="M70 344H1130" stroke="#3b3b3b"/>
+  <text x="70" y="365" fill="#777" font-family="monospace" font-size="10" letter-spacing="2">BACKEND ENGINEERING • CONTINUOUS LEARNING</text>
+  <text x="1128" y="365" fill="#d9ff43" font-family="monospace" font-size="10" text-anchor="end">01 — 2026</text>
+</g>
+</svg>
