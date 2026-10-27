@@ -1,130 +1,94 @@
-<p align="center">
-  <img src="./Adil Ali.png" width="150" alt="Adil Ali" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0f172a,50:1e3a8a,100:0f766e&text=Adil%20Ali&fontColor=ffffff&fontSize=56&fontAlignY=42&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Distributed%20Systems&descAlignY=68&descSize=16&animation=fadeIn" alt="Adil Ali — Java Backend Developer" width="100%" />
+
+<p>
+  <a href="https://github.com/AdilAli-web"><img src="https://img.shields.io/badge/GitHub-AdilAli--web-111827?style=flat-square&logo=github" alt="GitHub profile" /></a>
+  <a href="https://www.linkedin.com/in/adil-ali-0563341b3"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Focus-Java%20Backend-16A34A?style=flat-square" alt="Java backend focus" />
 </p>
 
-<h1 align="center">Adil Ali</h1>
-<h3 align="center">Java Backend Developer | Spring Boot | Microservices | Docker | Kafka</h3>
+**I build backend applications with Java and Spring Boot — and keep learning by shipping projects.**
 
-<p align="center">
-  Building backend applications, exploring distributed systems, and solving problems with Java.
-</p>
-
-<p align="center">
-  <a href="https://github.com/AdilAli-web">GitHub</a> •
-  <a href="https://www.linkedin.com/in/adil-ali-0563341b3">LinkedIn</a>
-</p>
+</div>
 
 ---
 
-## 👋 About Me
+## About
 
-I'm Adil Ali, a Computer Applications postgraduate student focused on **Java backend development**. I enjoy building APIs, working with databases, learning distributed systems concepts, and improving my problem-solving skills.
+I'm a postgraduate Computer Applications student focused on backend engineering. I enjoy designing REST APIs, modelling relational data, and understanding how production systems handle authentication, concurrency, messaging, and reliability.
 
-- 🔭 Building backend projects with **Java and Spring Boot**, including CHAT-ME and BookMyShow backend work.
-- 🌱 Learning and exploring **Spring Boot, microservices, Docker, Apache Kafka, Spring Data JPA, Hibernate, and SQL**.
-- 🧠 Practicing **Data Structures and Algorithms (DSA)** in Java.
-- 🛠️ Interested in REST API design, database performance, authentication, messaging, and reliable backend systems.
-- 🤝 Open to collaborating on Java, Spring Boot, and backend-focused projects.
+- 🔭 Building **CHAT-ME**, a chat backend, and working on **BookMyShow backend** workflows.
+- 🌱 Currently exploring **Docker, Apache Kafka, microservices, Spring Security, and database performance**.
+- 🧩 Practising **DSA and core Java** alongside project work.
+- 🤝 Interested in Java/Spring Boot projects, backend internships, and collaborative learning.
 
-## 🧰 Tech Stack
+## Tech I Work With
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
+<div align="center">
 
-### Backend & Data
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/WebSocket-333333?style=for-the-badge" alt="WebSocket"/>
-</p>
+| Languages | Backend & Data | Infrastructure & Tools |
+|:--|:--|:--|
+| <img src="https://skillicons.dev/icons?i=java,c,js" alt="Java, C, JavaScript" /> | <img src="https://skillicons.dev/icons?i=spring,hibernate,mysql" alt="Spring, Hibernate, MySQL" /> | <img src="https://skillicons.dev/icons?i=docker,kafka,git,github,postman,idea,maven" alt="Docker, Kafka, Git, GitHub, Postman, IntelliJ, Maven" /> |
 
-### DevOps & Messaging
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
-  <img src="https://img.shields.io/badge/Microservices-4B5563?style=for-the-badge" alt="Microservices"/>
-</p>
+</div>
 
-### Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
-</p>
+**Also learning:** REST API design · Spring Data JPA · WebSockets · SQL · Microservices architecture
 
-## 🚀 Featured Projects
+## Selected Projects
 
-### [CHAT-ME — Chat Application Backend](https://github.com/AdilAli-web/CHAT-ME)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AdilAli-web/CHAT-ME">CHAT-ME</a></h3>
+      <p><strong>Real-time chat backend · In progress</strong></p>
+      <p>A Java/Spring Boot backend exploring account management, persistent messages, and real-time delivery.</p>
+      <ul>
+        <li>Spring Data JPA entities and repositories</li>
+        <li>MySQL persistence and query-oriented indexes</li>
+        <li>WebSocket session handling and message delivery</li>
+        <li>Spring Security and BCrypt foundations</li>
+      </ul>
+      <sub>Java · Spring Boot · MySQL · WebSocket</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>BookMyShow Backend</h3>
+      <p><strong>Show and booking workflows</strong></p>
+      <p>A backend project focused on the core concepts behind a movie-ticket booking system.</p>
+      <ul>
+        <li>Show, booking, and seat domain modelling</li>
+        <li>Availability checks and persistence logic</li>
+        <li>Spring Boot APIs and relational data design</li>
+      </ul>
+      <sub>Java · Spring Boot · JPA/Hibernate · MySQL</sub>
+    </td>
+  </tr>
+</table>
 
-A work-in-progress chat backend built with Java and Spring Boot.
+More code and experiments: [browse all repositories →](https://github.com/AdilAli-web?tab=repositories)
 
-- JPA entities and repositories for accounts and chat messages.
-- MySQL persistence through Spring Data JPA.
-- Database indexes for message retrieval query patterns.
-- A raw WebSocket handler for tracking connected sessions and attempting real-time delivery.
-- BCrypt password encoder configuration.
+## What I'm Strengthening
 
-**Tech:** Java 21 · Spring Boot · Spring Data JPA · Hibernate · MySQL · Spring Security · WebSocket · Maven
+- **Java:** OOP, collections, generics, streams, exceptions, concurrency
+- **Backend:** REST APIs, validation, authentication, transactions, JPA/Hibernate
+- **Databases:** SQL, relationships, indexing, query performance
+- **Systems:** Docker, Kafka fundamentals, microservices concepts
+- **Problem solving:** arrays, hashing, two pointers, sliding window, complexity analysis
 
-> Under active development; not all flows have been verified end to end.
+## GitHub Activity
 
-### BookMyShow Backend
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AdilAli-web&show_icons=true&hide_border=true&bg_color=00000000&title_color=3B82F6&icon_color=14B8A6&text_color=64748B&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilAli-web&layout=compact&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=64748B" alt="Most used languages" />
+</div>
 
-A backend project focused on movie-show booking workflows and backend engineering concepts.
+## Let's Connect
 
-- Working with domain entities such as shows, bookings, and seats.
-- Exploring booking availability, database relationships, and persistence logic.
-- Practicing Spring Boot APIs and SQL-backed application design.
+- **GitHub:** [@AdilAli-web](https://github.com/AdilAli-web)
+- **LinkedIn:** [Adil Ali](https://www.linkedin.com/in/adil-ali-0563341b3)
 
-**Tech:** Java · Spring Boot · Spring Data JPA · Hibernate · MySQL
+<div align="center">
 
-> Project details and implemented features may evolve as development continues.
+*Building consistently. Learning deeply. Improving one commit at a time.*
 
-### More Projects
-
-Explore my repositories for Java, backend development, and problem-solving work:
-- [All repositories](https://github.com/AdilAli-web?tab=repositories)
-
-## 🧠 Core Java & DSA
-
-I am actively strengthening my understanding of:
-
-- Object-oriented programming and SOLID principles
-- Collections, generics, and exception handling
-- Streams, lambdas, and functional-style operations
-- Multithreading and concurrency fundamentals
-- `equals()`, `hashCode()`, `Comparable`, and `Comparator`
-- Arrays, strings, hashing, two pointers, and sliding window
-- Time and space complexity, edge cases, and problem-solving patterns
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AdilAli-web&show_icons=true&theme=tokyonight&hide_border=true" alt="Adil's GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilAli-web&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdilAli-web&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</p>
-
-## 📫 Connect With Me
-
-- GitHub: [@AdilAli-web](https://github.com/AdilAli-web)
-- LinkedIn: [Adil Ali](https://www.linkedin.com/in/adil-ali-0563341b3)
-
----
-
-<p align="center">
-  <b>Learning by building. Improving one commit at a time.</b>
-</p>
+</div>
