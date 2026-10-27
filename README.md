@@ -3,10 +3,10 @@
 </p>
 
 <h1 align="center">Adil Ali</h1>
-<h3 align="center">Java Backend Developer | Spring Boot | REST APIs | SQL</h3>
+<h3 align="center">Java Backend Developer | Spring Boot | Microservices | Docker | Kafka</h3>
 
 <p align="center">
-  Building backend applications, learning system design, and solving problems with Java.
+  Building backend applications, exploring distributed systems, and solving problems with Java.
 </p>
 
 <p align="center">
@@ -18,12 +18,12 @@
 
 ## 👋 About Me
 
-I'm Adil Ali, a Computer Applications postgraduate student focused on **Java backend development**. I enjoy building APIs, working with databases, understanding how backend systems work, and improving my problem-solving skills.
+I'm Adil Ali, a Computer Applications postgraduate student focused on **Java backend development**. I enjoy building APIs, working with databases, learning distributed systems concepts, and improving my problem-solving skills.
 
-- 🔭 Currently building **CHAT-ME**, a chat application backend with Spring Boot and WebSocket.
-- 🌱 Deepening my knowledge of **Java, Spring Boot, Spring Data JPA, Hibernate, SQL, and backend engineering**.
+- 🔭 Building backend projects with **Java and Spring Boot**, including CHAT-ME and BookMyShow backend work.
+- 🌱 Learning and exploring **Spring Boot, microservices, Docker, Apache Kafka, Spring Data JPA, Hibernate, and SQL**.
 - 🧠 Practicing **Data Structures and Algorithms (DSA)** in Java.
-- 🛠️ Interested in REST API design, database performance, authentication, and reliable backend systems.
+- 🛠️ Interested in REST API design, database performance, authentication, messaging, and reliable backend systems.
 - 🤝 Open to collaborating on Java, Spring Boot, and backend-focused projects.
 
 ## 🧰 Tech Stack
@@ -46,6 +46,13 @@ I'm Adil Ali, a Computer Applications postgraduate student focused on **Java bac
   <img src="https://img.shields.io/badge/WebSocket-333333?style=for-the-badge" alt="WebSocket"/>
 </p>
 
+### DevOps & Messaging
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
+  <img src="https://img.shields.io/badge/Microservices-4B5563?style=for-the-badge" alt="Microservices"/>
+</p>
+
 ### Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -55,13 +62,12 @@ I'm Adil Ali, a Computer Applications postgraduate student focused on **Java bac
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
 </p>
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### [CHAT-ME — Chat Application Backend](https://github.com/AdilAli-web/CHAT-ME)
 
 A work-in-progress chat backend built with Java and Spring Boot.
 
-**Implemented building blocks include:**
 - JPA entities and repositories for accounts and chat messages.
 - MySQL persistence through Spring Data JPA.
 - Database indexes for message retrieval query patterns.
@@ -70,7 +76,19 @@ A work-in-progress chat backend built with Java and Spring Boot.
 
 **Tech:** Java 21 · Spring Boot · Spring Data JPA · Hibernate · MySQL · Spring Security · WebSocket · Maven
 
-> The project is under active development; not all flows have been verified end to end yet.
+> Under active development; not all flows have been verified end to end.
+
+### BookMyShow Backend
+
+A backend project focused on movie-show booking workflows and backend engineering concepts.
+
+- Working with domain entities such as shows, bookings, and seats.
+- Exploring booking availability, database relationships, and persistence logic.
+- Practicing Spring Boot APIs and SQL-backed application design.
+
+**Tech:** Java · Spring Boot · Spring Data JPA · Hibernate · MySQL
+
+> Project details and implemented features may evolve as development continues.
 
 ### More Projects
 
