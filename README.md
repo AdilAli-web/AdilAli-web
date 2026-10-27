@@ -1,235 +1,112 @@
 <p align="center">
-  <img src="./Adil Ali.png" width="180" alt="Adil Ali" align="left"/>
+  <img src="./Adil Ali.png" width="150" alt="Adil Ali" />
 </p>
-# 👨‍💻 Adil Ali
 
-### 🚀 Java Developer | Spring Boot | DSA | Backend Development
-
+<h1 align="center">Adil Ali</h1>
+<h3 align="center">Java Backend Developer | Spring Boot | REST APIs | SQL</h3>
 
 <p align="center">
-  <b>Building backend applications • Solving DSA problems • Learning every day</b>
+  Building backend applications, learning system design, and solving problems with Java.
+</p>
+
+<p align="center">
+  <a href="https://github.com/AdilAli-web">GitHub</a> •
+  <a href="https://www.linkedin.com/in/adil-ali-0563341b3">LinkedIn</a>
 </p>
 
 ---
 
 ## 👋 About Me
 
-I'm **Adil Ali**, a Computer Applications student passionate about **Java development, backend engineering, and problem solving**.
+I'm Adil Ali, a Computer Applications postgraduate student focused on **Java backend development**. I enjoy building APIs, working with databases, understanding how backend systems work, and improving my problem-solving skills.
 
-I'm currently focused on strengthening my skills in **Java, Spring Boot, SQL, REST APIs, and Data Structures & Algorithms** while building practical projects.
+- 🔭 Currently building **CHAT-ME**, a chat application backend with Spring Boot and WebSocket.
+- 🌱 Deepening my knowledge of **Java, Spring Boot, Spring Data JPA, Hibernate, SQL, and backend engineering**.
+- 🧠 Practicing **Data Structures and Algorithms (DSA)** in Java.
+- 🛠️ Interested in REST API design, database performance, authentication, and reliable backend systems.
+- 🤝 Open to collaborating on Java, Spring Boot, and backend-focused projects.
 
-* 🔭 Currently working on **Java & Spring Boot projects**
-* 🌱 Learning **Spring Boot, REST APIs, SQL & Backend Development**
-* 🧠 Solving **DSA problems** regularly
-* 💻 Interested in **Java Backend Development**
-* 👯 Open to collaborating on **Java, Spring Boot & Open Source projects**
-* 🎯 Goal: Become a strong **Java Backend Developer**
+## 🧰 Tech Stack
 
----
-
-## 🛠️ Tech Stack
-
-### ☕ Languages
-
+### Languages
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-### 🚀 Backend & Frameworks
-
+### Backend & Data
 <p>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/WebSocket-333333?style=for-the-badge" alt="WebSocket"/>
 </p>
 
-### 🗄️ Database
-
+### Tools
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
 </p>
 
-### 🔧 Tools
+## 🚀 Featured Project
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-</p>
+### [CHAT-ME — Chat Application Backend](https://github.com/AdilAli-web/CHAT-ME)
 
----
+A work-in-progress chat backend built with Java and Spring Boot.
 
-## 🧠 Core Java
+**Implemented building blocks include:**
+- JPA entities and repositories for accounts and chat messages.
+- MySQL persistence through Spring Data JPA.
+- Database indexes for message retrieval query patterns.
+- A raw WebSocket handler for tracking connected sessions and attempting real-time delivery.
+- BCrypt password encoder configuration.
 
-I'm currently strengthening my understanding of:
+**Tech:** Java 21 · Spring Boot · Spring Data JPA · Hibernate · MySQL · Spring Security · WebSocket · Maven
 
-* OOP & SOLID Principles
-* Collections Framework
-* Generics
-* Exception Handling
-* Multithreading & Concurrency
-* Comparable & Comparator
-* Java Streams
-* HashMap Internals
-* `equals()` & `hashCode()`
-* File Handling
-* JDBC
-* Clean Code & Object-Oriented Design
+> The project is under active development; not all flows have been verified end to end yet.
 
----
+### More Projects
 
-## 🧩 Data Structures & Algorithms
+Explore my repositories for Java, backend development, and problem-solving work:
+- [All repositories](https://github.com/AdilAli-web?tab=repositories)
 
-I'm actively solving DSA problems using **Java**.
+## 🧠 Core Java & DSA
 
-### Currently Practicing
+I am actively strengthening my understanding of:
 
-```text
-Arrays
-   ↓
-Strings
-   ↓
-Two Pointers
-   ↓
-Sliding Window
-   ↓
-Hashing
-   ↓
-Linked List
-   ↓
-Stack & Queue
-   ↓
-Binary Search
-   ↓
-Recursion
-   ↓
-Trees
-   ↓
-Graphs
-   ↓
-Dynamic Programming
-```
+- Object-oriented programming and SOLID principles
+- Collections, generics, and exception handling
+- Streams, lambdas, and functional-style operations
+- Multithreading and concurrency fundamentals
+- `equals()`, `hashCode()`, `Comparable`, and `Comparator`
+- Arrays, strings, hashing, two pointers, and sliding window
+- Time and space complexity, edge cases, and problem-solving patterns
 
-### 🧠 My Problem-Solving Approach
-
-```text
-Understand the Problem
-        ↓
-Build Brute Force Solution
-        ↓
-Find the Pattern
-        ↓
-Optimize the Solution
-        ↓
-Analyze Time & Space Complexity
-        ↓
-Implement in Java
-        ↓
-Test Edge Cases
-```
-
-> 🎯 **My goal is to understand patterns and problem-solving techniques rather than simply memorizing solutions.**
-
----
-
-# 🏗️ Featured Projects
-
-### 🏦 Java Banking System
-
-A console-based banking application built to strengthen **Java OOP, Collections, and clean code principles**.
-
-**Features**
-
-* User registration & login
-* Deposit & withdrawal
-* Balance checking
-* Transaction history
-* Menu-driven CLI
-* Object-Oriented Design
-
-**Tech:** `Java` `OOP` `Collections`
-
----
-
-### 📝 Note Saver
-
-A backend application for creating and managing notes while practicing **Spring Boot and REST API development**.
-
-**Tech:** `Java` `Spring Boot` `REST API`
-
----
-
-### 🎓 StudyMate AI
-
-An AI-powered study project designed to help students generate useful academic resources from their study material.
-
-**Tech:** `JavaScript` `React` `Node.js` `API`
-
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AdilAli-web&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilAli-web&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AdilAli-web&show_icons=true&theme=tokyonight&hide_border=true" alt="Adil's GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilAli-web&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 </p>
-
----
-
-## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdilAli-web&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdilAli-web&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
----
+## 📫 Connect With Me
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdilAli-web&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdilAli-web&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
-
----
-
-# 🌐 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/AdilAli-web">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/adil-ali-0563341b3">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 📊 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdilAli-web&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
-</p>
+- GitHub: [@AdilAli-web](https://github.com/AdilAli-web)
+- LinkedIn: [Adil Ali](https://www.linkedin.com/in/adil-ali-0563341b3)
 
 ---
 
 <p align="center">
-
-### 🚀 Learning every day. Building every day. Solving one problem at a time.
-
-⭐ **Feel free to explore my repositories and follow my journey!**
-
+  <b>Learning by building. Improving one commit at a time.</b>
 </p>
