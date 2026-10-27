@@ -1,90 +1,92 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-aurora.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-aurora.svg">
-  <img src="./assets/profile-aurora.svg" width="100%" alt="Adil Ali — Java backend developer working with Spring Boot, Docker, and Kafka." />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-modern.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-modern.svg">
+  <img src="./assets/profile-modern.svg" width="100%" alt="Adil Ali — Java Backend Developer" />
 </picture>
 
 <br/>
 
-<a href="https://github.com/AdilAli-web"><img src="https://img.shields.io/badge/GITHUB-View%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" /></a>
-<a href="https://www.linkedin.com/in/adil-ali-0563341b3"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="https://github.com/AdilAli-web?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
+<a href="https://www.linkedin.com/in/adil-ali-0563341b3"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<img src="https://img.shields.io/badge/Focus-Backend%20Engineering-0891b2?style=for-the-badge" alt="Backend engineering" />
 
 </div>
 
-## About
+## About me
 
-I'm an MCA student focused on **Java backend development**. I like understanding how applications work beyond the endpoint: data modelling, transactions, authentication, real-time messaging, and the infrastructure around a service.
+I'm an MCA student focused on **Java backend development**. I enjoy building APIs and understanding the engineering behind them — data modelling, transactions, authentication, concurrency, and reliable persistence.
 
-- Currently building **CHAT-ME** and developing **BookMyShow backend** workflows.
-- Working with **Java, Spring Boot, Spring Data JPA, Hibernate, and MySQL**.
-- Exploring **Docker, Apache Kafka, and microservices concepts**.
-- Practising core Java and DSA while building projects.
+- 🔭 Building **CHAT-ME** and exploring booking workflows with **BookMyShow Backend**.
+- 🌱 Learning more about **Spring Boot, JPA/Hibernate, Docker, Kafka, and system design**.
+- 🧠 Practising Java, SQL, and data structures and algorithms.
+- 🎯 Goal: build backend services that are understandable, testable, and reliable.
 
-## Featured work
+## Featured projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/AdilAli-web/CHAT-ME"><strong>CHAT-ME ↗</strong></a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/PROJECT-IN%20PROGRESS-0891b2?style=flat-square" alt="In progress" />
-      <p>A chat backend exploring account management, persistent messages, and real-time delivery.</p>
+      <h3>💬 <a href="https://github.com/AdilAli-web/CHAT-ME">CHAT-ME</a></h3>
+      <img src="https://img.shields.io/badge/STATUS-In%20Progress-0891b2?style=flat-square" alt="In progress" />
+      <p>A chat backend focused on user accounts, message persistence, and real-time communication.</p>
+      <p><strong>Exploring</strong></p>
       <ul>
-        <li>Spring Data JPA entities and repositories</li>
-        <li>MySQL persistence and message-query indexes</li>
-        <li>WebSocket session handling</li>
-        <li>Spring Security / BCrypt foundations</li>
+        <li>Spring Boot APIs and JPA persistence</li>
+        <li>MySQL data modelling and query design</li>
+        <li>WebSocket communication</li>
+        <li>Spring Security and password hashing foundations</li>
       </ul>
-      <sub>Java · Spring Boot · MySQL · WebSocket</sub>
+      <p><code>Java</code> <code>Spring Boot</code> <code>MySQL</code> <code>WebSocket</code></p>
     </td>
     <td width="50%" valign="top">
-      <strong>BookMyShow Backend</strong>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/FOCUS-BOOKING%20WORKFLOWS-6366f1?style=flat-square" alt="Booking workflows" />
-      <p>A backend project exploring movie-show booking workflows and relational application design.</p>
+      <h3>🎟️ BookMyShow Backend</h3>
+      <img src="https://img.shields.io/badge/FOCUS-Booking%20Workflows-6366f1?style=flat-square" alt="Booking workflows" />
+      <p>A backend learning project for movie shows, seat availability, and booking operations.</p>
+      <p><strong>Exploring</strong></p>
       <ul>
         <li>Show, booking, and seat domain models</li>
-        <li>Availability and persistence logic</li>
-        <li>Spring Boot APIs and database relationships</li>
+        <li>Availability checks and persistence logic</li>
+        <li>Database relationships and transactional flows</li>
+        <li>Concurrency-aware seat selection</li>
       </ul>
-      <sub>Java · Spring Boot · JPA/Hibernate · MySQL</sub>
+      <p><code>Java</code> <code>Spring Boot</code> <code>JPA/Hibernate</code> <code>MySQL</code></p>
     </td>
   </tr>
 </table>
 
 <div align="center">
 
-[Explore all repositories →](https://github.com/AdilAli-web?tab=repositories)
+<a href="https://github.com/AdilAli-web?tab=repositories">View all repositories →</a>
 
 </div>
 
-## Stack
+## Tech stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,docker,kafka,git,github,postman,idea,maven&perline=6" alt="Java, Spring, Hibernate, MySQL, Docker, Kafka, Git, GitHub, Postman, IntelliJ IDEA and Maven" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,kafka,git,github,postman,idea,maven&perline=5" alt="Java, Spring, MySQL, Docker, Kafka, Git, GitHub, Postman, IntelliJ IDEA, Maven" />
 
 </div>
 
-| Area | Technologies |
+| Focus | Tools and technologies |
 |---|---|
 | **Languages** | Java · SQL · C · JavaScript |
 | **Backend** | Spring Boot · Spring Data JPA · Hibernate · REST APIs |
-| **Data & realtime** | MySQL · WebSockets · database indexing |
-| **Infrastructure** | Docker · Kafka fundamentals · microservices concepts |
-| **Tools** | Git · GitHub · Maven · Postman · IntelliJ IDEA |
+| **Databases & messaging** | MySQL · WebSockets · Kafka fundamentals |
+| **Infrastructure** | Docker · microservices concepts |
+| **Workflow** | Git · GitHub · Maven · Postman · IntelliJ IDEA |
 
-## Currently sharpening
+## What I'm working on
 
-- **Java:** OOP, collections, generics, streams, exceptions, concurrency
-- **Backend engineering:** validation, authentication, transactions, JPA/Hibernate
-- **Databases:** SQL, relationships, indexes, query performance
-- **System fundamentals:** Docker, Kafka, microservices architecture
-- **Problem solving:** arrays, hashing, two pointers, sliding window, complexity
+- **Java:** collections, generics, streams, exceptions, and concurrency
+- **Spring Boot:** validation, authentication, transactions, and API design
+- **Persistence:** entity relationships, indexes, query performance, and Hibernate
+- **System fundamentals:** Docker, Kafka, and service communication
+- **Problem solving:** arrays, hashing, two pointers, sliding windows, and complexity
 
-## GitHub activity
+## GitHub at a glance
 
 <div align="center">
   <picture>
@@ -103,8 +105,8 @@ I'm an MCA student focused on **Java backend development**. I like understanding
 
 <div align="center">
 
-**Build thoughtfully. Learn continuously. Ship useful things.**
+*Build thoughtfully. Learn continuously. Ship useful things.*
 
-[GitHub](https://github.com/AdilAli-web) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/adil-ali-0563341b3)
+<a href="https://github.com/AdilAli-web">GitHub</a> · <a href="https://www.linkedin.com/in/adil-ali-0563341b3">LinkedIn</a>
 
 </div>
