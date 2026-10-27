@@ -85,21 +85,51 @@ I'm an MCA student focused on **Java backend development**. I learn by building 
 
 ---
 
-## 🧰 Tech stack
+## 🧩 Skills & technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,kafka,git,github,postman,idea,maven&perline=5" alt="Java, Spring, MySQL, Docker, Kafka, Git, GitHub, Postman, IntelliJ IDEA, Maven" />
+<table>
+<tr>
+<td align="center" width="50%">
+
+<strong>⚡ LANGUAGES</strong><br/><br/>
+<img src="https://skillicons.dev/icons?i=java,c,js&theme=dark" alt="Java, C, JavaScript" /><br/>
+<img src="https://img.shields.io/badge/SQL-7C3AED?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+
+</td>
+<td align="center" width="50%">
+
+<strong>🚀 BACKEND</strong><br/><br/>
+<img src="https://skillicons.dev/icons?i=spring,hibernate&theme=dark" alt="Spring and Hibernate" /><br/>
+<img src="https://img.shields.io/badge/REST_APIs-06B6D4?style=for-the-badge" alt="REST APIs" />
+<img src="https://img.shields.io/badge/Spring_Data_JPA-16A34A?style=for-the-badge" alt="Spring Data JPA" />
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+<strong>🗄️ DATA & MESSAGING</strong><br/><br/>
+<img src="https://skillicons.dev/icons?i=mysql,kafka&theme=dark" alt="MySQL and Kafka" /><br/>
+<img src="https://img.shields.io/badge/WebSockets-8B5CF6?style=for-the-badge" alt="WebSockets" />
+
+</td>
+<td align="center" width="50%">
+
+<strong>🛠️ TOOLS & INFRASTRUCTURE</strong><br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,idea,maven&theme=dark" alt="Docker, Git, GitHub, Postman, IntelliJ IDEA, Maven" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
-| Area | Technologies |
-|---|---|
-| **Languages** | Java · SQL · C · JavaScript |
-| **Backend** | Spring Boot · Spring Data JPA · Hibernate · REST APIs |
-| **Data & realtime** | MySQL · WebSockets · Kafka fundamentals |
-| **Infrastructure** | Docker · Microservices concepts |
-| **Tools** | Git · GitHub · Maven · Postman · IntelliJ IDEA |
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-Backend%20Development-0B1026?style=for-the-badge&labelColor=0B1026" alt="Focus: Backend Development" />
+  <img src="https://img.shields.io/badge/LEARNING-Kafka%20%26%20Microservices-7C3AED?style=for-the-badge&labelColor=0B1026" alt="Learning Kafka and microservices" />
+</p>
 
 ## 🧪 Currently sharpening
 
