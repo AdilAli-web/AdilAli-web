@@ -1,94 +1,115 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0f172a,50:1e3a8a,100:0f766e&text=Adil%20Ali&fontColor=ffffff&fontSize=56&fontAlignY=42&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Distributed%20Systems&descAlignY=68&descSize=16&animation=fadeIn" alt="Adil Ali — Java Backend Developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:111827,65:312e81,100:06b6d4&text=ADIL%20ALI&fontColor=67e8f9&fontSize=64&fontAlignY=38&desc=JAVA%20BACKEND%20ENGINEER%20IN%20THE%20MAKING&descAlignY=58&descSize=17&animation=twinkling&stroke=22d3ee&strokeWidth=1" width="100%" alt="Futuristic neon header for Adil Ali" />
 
-<p>
-  <a href="https://github.com/AdilAli-web"><img src="https://img.shields.io/badge/GitHub-AdilAli--web-111827?style=flat-square&logo=github" alt="GitHub profile" /></a>
-  <a href="https://www.linkedin.com/in/adil-ali-0563341b3"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Focus-Java%20Backend-16A34A?style=flat-square" alt="Java backend focus" />
-</p>
+<a href="https://github.com/AdilAli-web"><img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=67e8f9" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/adil-ali-0563341b3"><img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" /></a>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-020617?style=for-the-badge&labelColor=312e81&color=06b6d4" alt="Building" />
 
-**I build backend applications with Java and Spring Boot — and keep learning by shipping projects.**
+### [ SYSTEM ONLINE ] · Java · Spring Boot · Distributed Systems
+
+*Designing reliable backends. Learning the systems behind the code.*
 
 </div>
 
 ---
 
-## About
+## // PROFILE.SYS
 
-I'm a postgraduate Computer Applications student focused on backend engineering. I enjoy designing REST APIs, modelling relational data, and understanding how production systems handle authentication, concurrency, messaging, and reliability.
+> MCA student focused on **Java backend engineering** — building APIs, modelling data, and exploring how real-time and distributed systems work.
 
-- 🔭 Building **CHAT-ME**, a chat backend, and working on **BookMyShow backend** workflows.
-- 🌱 Currently exploring **Docker, Apache Kafka, microservices, Spring Security, and database performance**.
-- 🧩 Practising **DSA and core Java** alongside project work.
-- 🤝 Interested in Java/Spring Boot projects, backend internships, and collaborative learning.
+- **CURRENT BUILDS** → [CHAT-ME](https://github.com/AdilAli-web/CHAT-ME) · BookMyShow backend
+- **EXPLORING** → Docker · Apache Kafka · Microservices · Spring Security
+- **CORE LOOP** → Build → Test → Learn → Refine
+- **OPEN TO** → Backend projects, collaboration, and Java/Spring Boot opportunities
 
-## Tech I Work With
+## // TECH MATRIX
 
 <div align="center">
 
-| Languages | Backend & Data | Infrastructure & Tools |
-|:--|:--|:--|
-| <img src="https://skillicons.dev/icons?i=java,c,js" alt="Java, C, JavaScript" /> | <img src="https://skillicons.dev/icons?i=spring,hibernate,mysql" alt="Spring, Hibernate, MySQL" /> | <img src="https://skillicons.dev/icons?i=docker,kafka,git,github,postman,idea,maven" alt="Docker, Kafka, Git, GitHub, Postman, IntelliJ, Maven" /> |
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,docker,kafka,git,github,postman,idea,maven&theme=dark&perline=6" alt="Java, Spring, Hibernate, MySQL, Docker, Kafka, Git, GitHub, Postman, IntelliJ and Maven" />
 
 </div>
 
-**Also learning:** REST API design · Spring Data JPA · WebSockets · SQL · Microservices architecture
+| DOMAIN | TOOLKIT |
+|:--|:--|
+| **LANGUAGES** | Java · SQL · C · JavaScript |
+| **BACKEND** | Spring Boot · Spring Data JPA · Hibernate · REST APIs |
+| **DATA & REAL-TIME** | MySQL · WebSockets · database indexing |
+| **SYSTEMS** | Docker · Kafka fundamentals · microservices concepts |
+| **WORKFLOW** | Git · GitHub · Maven · Postman · IntelliJ IDEA |
 
-## Selected Projects
+## // DEPLOYED PROJECTS
+
+<div align="center">
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/AdilAli-web/CHAT-ME">CHAT-ME</a></h3>
-      <p><strong>Real-time chat backend · In progress</strong></p>
-      <p>A Java/Spring Boot backend exploring account management, persistent messages, and real-time delivery.</p>
-      <ul>
-        <li>Spring Data JPA entities and repositories</li>
-        <li>MySQL persistence and query-oriented indexes</li>
-        <li>WebSocket session handling and message delivery</li>
-        <li>Spring Security and BCrypt foundations</li>
-      </ul>
-      <sub>Java · Spring Boot · MySQL · WebSocket</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>BookMyShow Backend</h3>
-      <p><strong>Show and booking workflows</strong></p>
-      <p>A backend project focused on the core concepts behind a movie-ticket booking system.</p>
-      <ul>
-        <li>Show, booking, and seat domain modelling</li>
-        <li>Availability checks and persistence logic</li>
-        <li>Spring Boot APIs and relational data design</li>
-      </ul>
-      <sub>Java · Spring Boot · JPA/Hibernate · MySQL</sub>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/AdilAli-web/CHAT-ME">01 / CHAT-ME</a>
+
+**REAL-TIME CHAT BACKEND**
+
+A work-in-progress Java backend exploring accounts, persistent messages, and live message delivery.
+
+- Spring Data JPA + MySQL
+- Message retrieval indexes
+- WebSocket connection handling
+- Spring Security / BCrypt foundations
+
+JAVA · SPRING BOOT · MYSQL · WEBSOCKET
+
+</td>
+<td width="50%" valign="top">
+
+### 02 / BOOKMYSHOW BACKEND
+
+**BOOKING SYSTEM CONCEPTS**
+
+A backend project exploring movie-show and ticket-booking workflows.
+
+- Show, booking, and seat domain models
+- Availability and persistence logic
+- REST API and relational database design
+
+JAVA · SPRING BOOT · JPA · MYSQL
+
+</td>
+</tr>
 </table>
 
-More code and experiments: [browse all repositories →](https://github.com/AdilAli-web?tab=repositories)
-
-## What I'm Strengthening
-
-- **Java:** OOP, collections, generics, streams, exceptions, concurrency
-- **Backend:** REST APIs, validation, authentication, transactions, JPA/Hibernate
-- **Databases:** SQL, relationships, indexing, query performance
-- **Systems:** Docker, Kafka fundamentals, microservices concepts
-- **Problem solving:** arrays, hashing, two pointers, sliding window, complexity analysis
-
-## GitHub Activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AdilAli-web&show_icons=true&hide_border=true&bg_color=00000000&title_color=3B82F6&icon_color=14B8A6&text_color=64748B&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilAli-web&layout=compact&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=64748B" alt="Most used languages" />
 </div>
 
-## Let's Connect
+> **BUILD NOTE:** Projects are evolving. Feature descriptions reflect current learning and implementation, not a claim of production readiness.
 
-- **GitHub:** [@AdilAli-web](https://github.com/AdilAli-web)
-- **LinkedIn:** [Adil Ali](https://www.linkedin.com/in/adil-ali-0563341b3)
+[ EXPLORE ALL REPOSITORIES ↗](https://github.com/AdilAli-web?tab=repositories)
+
+## // SKILL TREE
+
+- **JAVA CORE** — OOP, Collections, Generics, Streams, Exceptions, Concurrency
+- **BACKEND ENGINEERING** — REST, Validation, Authentication, Transactions, JPA/Hibernate
+- **DATABASES** — SQL, Relationships, Indexes, Query Performance
+- **SYSTEM DESIGN BASICS** — Docker, Kafka fundamentals, Microservices concepts
+- **PROBLEM SOLVING** — Arrays, Hashing, Two Pointers, Sliding Window, Complexity
+
+## // ACTIVITY FEED
 
 <div align="center">
 
-*Building consistently. Learning deeply. Improving one commit at a time.*
+<img src="https://github-readme-stats.vercel.app/api?username=AdilAli-web&show_icons=true&hide_border=true&bg_color=020617&title_color=67e8f9&icon_color=a78bfa&text_color=cbd5e1&rank_icon=github" height="170" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilAli-web&layout=compact&hide_border=true&bg_color=020617&title_color=67e8f9&text_color=cbd5e1" height="170" alt="Top languages" />
+
+</div>
+
+## // ESTABLISH CONNECTION
+
+<div align="center">
+
+[GitHub / @AdilAli-web](https://github.com/AdilAli-web) &nbsp; • &nbsp; [LinkedIn / Adil Ali](https://www.linkedin.com/in/adil-ali-0563341b3)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:06b6d4,50:312e81,100:020617&section=footer" width="100%" alt="Neon cyan and violet footer" />
+
+<sub>KEEP BUILDING // KEEP LEARNING // SHIP THE NEXT VERSION</sub>
 
 </div>
