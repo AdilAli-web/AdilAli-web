@@ -1,69 +1,91 @@
 <div align="center">
 
-<img src="./assets/profile-minimal.svg" width="100%" alt="Adil Ali — Java Backend Developer" />
+<img src="./assets/profile-futuristic.svg" width="100%" alt="Adil Ali — Java Backend Developer" />
 
 <br/>
 
-<a href="https://github.com/AdilAli-web?tab=repositories">PROJECTS ↗</a>
-&nbsp;&nbsp; / &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/adil-ali-0563341b3">LINKEDIN ↗</a>
+<a href="https://github.com/AdilAli-web?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-PROJECTS-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
+<a href="https://www.linkedin.com/in/adil-ali-0563341b3"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+</div>
+
+<div align="center">
+
+### ✦ JAVA BACKEND ENGINEERING · CONTINUOUSLY LEARNING ✦
+
+*I like understanding what happens behind the API — from data and transactions to real-time communication.*
 
 </div>
 
 ---
 
-### PROFILE
+## ⚡ About
 
-MCA student focused on **Java backend engineering**. I build projects to understand what happens behind an API: persistence, transactions, authentication, concurrency, and service design.
+I'm an MCA student focused on **Java backend development**. I learn by building and debugging real projects, with an interest in API design, persistence, authentication, concurrency, and the infrastructure that supports backend services.
 
-Currently focused on **Spring Boot**, **JPA/Hibernate**, **MySQL**, and the fundamentals of **Docker** and **Kafka**.
+- 🔭 Building **CHAT-ME** and working on **BookMyShow Backend** workflows.
+- 🧩 Practising **Java, SQL, Spring Boot, Spring Data JPA, and Hibernate**.
+- 🚀 Exploring **Docker, Kafka fundamentals, and microservices concepts**.
+- 🧠 Improving DSA and core Java knowledge alongside project work.
 
----
-
-### SELECTED WORK
+## 🚀 Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 01 / CHAT-ME
+<h3>💬 CHAT-ME</h3>
 
-<a href="https://github.com/AdilAli-web/CHAT-ME"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-171717?style=for-the-badge&logo=github&logoColor=white" alt="View CHAT-ME repository" /></a>
+<a href="https://github.com/AdilAli-web/CHAT-ME"><img src="https://img.shields.io/badge/OPEN_PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Open CHAT-ME project" /></a>
 
-A chat backend project exploring account management, persistent messages, and real-time communication.
+<p>A chat backend project exploring account management, persistent messages, and real-time communication.</p>
 
-**AREAS OF WORK**
-- Spring Boot APIs and JPA persistence
-- MySQL data modelling and query design
-- WebSocket communication
-- Spring Security foundations
+<strong>Key areas</strong>
+<ul>
+<li>Spring Boot APIs and JPA persistence</li>
+<li>MySQL data modelling and query design</li>
+<li>WebSocket communication</li>
+<li>Spring Security foundations</li>
+</ul>
 
-**JAVA · SPRING BOOT · MYSQL · WEBSOCKET**
+<img src="https://img.shields.io/badge/Java-0B1026?style=flat-square&logo=openjdk&logoColor=67E8F9" alt="Java" />
+<img src="https://img.shields.io/badge/Spring_Boot-0B1026?style=flat-square&logo=springboot&logoColor=86EFAC" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/MySQL-0B1026?style=flat-square&logo=mysql&logoColor=93C5FD" alt="MySQL" />
 
 </td>
 <td width="50%" valign="top">
 
-#### 02 / BOOKMYSHOW BACKEND
+<h3>🎟️ BookMyShow Backend</h3>
 
-<a href="https://github.com/AdilAli-web?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_REPOS-171717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+<a href="https://github.com/AdilAli-web?tab=repositories"><img src="https://img.shields.io/badge/BROWSE_REPOSITORIES-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Browse repositories" /></a>
 
-A backend learning project focused on movie shows, seat availability, and booking flows.
+<p>A backend learning project focused on movie shows, seat availability, and booking flows.</p>
 
-**AREAS OF WORK**
-- Show, booking, and seat domain models
-- Availability and persistence logic
-- Entity relationships and transactions
-- Concurrency-aware seat selection
+<strong>Key areas</strong>
+<ul>
+<li>Show, booking, and seat domain models</li>
+<li>Availability checks and persistence logic</li>
+<li>Entity relationships and transaction handling</li>
+<li>Concurrency-aware seat selection</li>
+</ul>
 
-**JAVA · SPRING BOOT · JPA · MYSQL**
+<img src="https://img.shields.io/badge/Java-0B1026?style=flat-square&logo=openjdk&logoColor=67E8F9" alt="Java" />
+<img src="https://img.shields.io/badge/Spring_Boot-0B1026?style=flat-square&logo=springboot&logoColor=86EFAC" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/JPA_+_MySQL-0B1026?style=flat-square&logo=mysql&logoColor=93C5FD" alt="JPA and MySQL" />
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+<a href="https://github.com/AdilAli-web?tab=repositories">✦ Browse all repositories →</a>
+
+</div>
+
 ---
 
-### TOOLKIT
+## 🧰 Tech stack
 
 <div align="center">
 
@@ -71,35 +93,33 @@ A backend learning project focused on movie shows, seat availability, and bookin
 
 </div>
 
-| DOMAIN | CURRENT TOOLKIT |
-|:--|:--|
-| **LANGUAGES** | Java · SQL · C · JavaScript |
-| **BACKEND** | Spring Boot · Spring Data JPA · Hibernate · REST APIs |
-| **DATA & MESSAGING** | MySQL · WebSockets · Kafka fundamentals |
-| **INFRASTRUCTURE** | Docker · Microservices concepts |
-| **DEVELOPER TOOLS** | Git · GitHub · Maven · Postman · IntelliJ IDEA |
+| Area | Technologies |
+|---|---|
+| **Languages** | Java · SQL · C · JavaScript |
+| **Backend** | Spring Boot · Spring Data JPA · Hibernate · REST APIs |
+| **Data & realtime** | MySQL · WebSockets · Kafka fundamentals |
+| **Infrastructure** | Docker · Microservices concepts |
+| **Tools** | Git · GitHub · Maven · Postman · IntelliJ IDEA |
 
-### CURRENTLY SHARPENING
+## 🧪 Currently sharpening
 
-- Java collections, streams, generics, and concurrency
-- Spring validation, authentication, transactions, and API design
-- SQL performance, indexes, and Hibernate relationships
-- Docker, Kafka, and distributed-system fundamentals
-- DSA: hashing, two pointers, sliding windows, and complexity
+- **Java:** collections, streams, generics, exception handling, concurrency
+- **Spring Boot:** validation, authentication, transactions, API design
+- **Persistence:** entity relationships, indexes, query performance, Hibernate
+- **Systems:** Docker, Kafka, and service communication fundamentals
+- **Problem solving:** hashing, two pointers, sliding windows, complexity analysis
 
----
-
-### GITHUB ACTIVITY
+## 📈 GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdilAli-web&show_icons=true&hide_border=true&bg_color=101010&title_color=d9ff43&icon_color=d9ff43&text_color=e5e5e5" height="155" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilAli-web&layout=compact&hide_border=true&bg_color=101010&title_color=d9ff43&text_color=e5e5e5" height="155" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdilAli-web&show_icons=true&hide_border=true&bg_color=0B1026&title_color=22D3EE&icon_color=F472B6&text_color=E2E8F0" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilAli-web&layout=compact&hide_border=true&bg_color=0B1026&title_color=A78BFA&text_color=E2E8F0" height="165" alt="Most used languages" />
 </div>
 
 <div align="center">
 
-**BUILD WITH INTENT. LEARN BY SHIPPING.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=650&lines=BUILD+WITH+INTENT;LEARN+BY+BUILDING;MAKE+THE+BACKEND+MAKE+SENSE" alt="Animated motto: Build with intent, learn by building" />
 
-<sub>Java backend development · Projects in progress · Always improving</sub>
+<sub>Java backend development · Projects in progress · Always learning</sub>
 
 </div>
